@@ -1,92 +1,143 @@
 
-# Hi, I'm Vishal Kanate 👋
+<!-- ================= HEADER ================= -->
 
-### Aspiring Full Stack Developer | Student | Problem Solver
+<div align="center">
 
-Welcome to my GitHub profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B3B,100:00E5CC&height=200&section=header&text=VISHAL%20KANATE&fontSize=48&fontColor=00FFD5&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROGRAMMER&descAlignY=60&descSize=16" width="100%" />
 
-I'm a student passionate about programming, software development, and building practical solutions through technology.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Python+%7C+C+%7C+C%2B%2B;Learning+%7C+Building+%7C+Improving;Welcome+to+my+GitHub+Profile!" />
 
-I enjoy learning new technologies, solving problems, and continuously improving my development skills.
+</div>
 
 ---
+
+<!-- ================= ABOUT ================= -->
 
 ## 👨‍💻 About Me
 
-- 🎓 Student and aspiring software developer.
-- 💻 Interested in Full Stack Web Development.
-- 🐍 Programming with Python, C, and C++.
-- 🌱 Always learning and exploring new technologies.
-- 🤝 Interested in open-source contributions and collaboration.
-- 🎯 Focused on building real-world projects and growing as a developer.
+```yaml
+Name: Vishal Kanate
+Role: Aspiring Full Stack Developer
+Status: Student / Fresher
+Interests:
+  - Full Stack Web Development
+  - Software Development
+  - Problem Solving
+  - Open Source
+Currently_Learning:
+  - Web Development
+  - Backend Development
+  - Database Management
+```
+
+- 🔭 Working towards becoming a Full Stack Developer.
+- 🌱 Learning new technologies and building practical skills.
+- 💻 Interested in creating useful real-world applications.
+- 🤝 Open to collaboration and open-source contributions.
+- 🎯 Goal: Become a skilled Software Engineer.
 
 ---
 
-## 🛠️ Technical Skills
+<!-- ================= TECH STACK ================= -->
+
+## ⚡ Tech Stack
 
 ### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+<!-- ================= GITHUB STATS ================= -->
 
-- Frontend Web Development
-- Backend Development
-- Database Management
-- Data Structures and Algorithms
-- Software Development Practices
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-## 🚀 Goals
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalkanate13-ship-it&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FFD5&icon_color=00FFD5&text_color=FFFFFF" />
 
-- Build practical Full Stack Web Applications.
-- Strengthen programming and problem-solving skills.
-- Contribute to open-source projects.
-- Collaborate with other developers.
-- Grow into a professional Software Engineer.
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkanate13-ship-it&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FFD5&text_color=FFFFFF" />
+
+</div>
 
 ---
 
-## 📂 My GitHub Projects
+<!-- ================= STREAK ================= -->
 
-I'm continuously learning and working towards building meaningful projects.
+## 🔥 Contribution Streak
 
-Explore my repositories:
+<div align="center">
 
-[![Repositories](https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalkanate13-ship-it?tab=repositories)
+<img src="https://streak-stats.demolab.com?user=vishalkanate13-ship-it&theme=dark&hide_border=true&background=050505&ring=00FFD5&fire=00FFD5&currStreakLabel=00FFD5" width="75%" />
 
----
-
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalkanate13-ship-it&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkanate13-ship-it&layout=compact&hide_border=true&theme=transparent)
+</div>
 
 ---
 
-## 📫 Connect With Me
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-vishalkanate13--ship--it-181717?style=for-the-badge&logo=github)](https://github.com/vishalkanate13-ship-it)
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkanate13-ship-it&bg_color=050505&color=00FFD5&line=00FFD5&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
-### 💡 My Philosophy
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 
-*Learn continuously. Build consistently. Improve every day.*
+## 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vishalkanate13-ship-it/vishalkanate13-ship-it/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/vishalkanate13-ship-it?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-00FFD5?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vishalkanate13-ship-it">
+<img src="https://img.shields.io/badge/GitHub-00FFD5?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 BUILD • LEARN • CREATE • REPEAT
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5CC,50:003B3B,100:050505&height=110&section=footer" width="100%" />
+
+</div>
