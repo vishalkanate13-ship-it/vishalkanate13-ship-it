@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Vishal Kanate
+Name: Vishal Reddy
 Role: Aspiring Full Stack Developer
 Status: Student / Fresher
 Interests:
