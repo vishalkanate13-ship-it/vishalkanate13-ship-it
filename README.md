@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B3B,100:00E5CC&height=200&section=header&text=VISHAL%20KANATE&fontSize=48&fontColor=00FFD5&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROGRAMMER&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B3B,100:00E5CC&height=200&section=header&text=VISHAL%20REDDY&fontSize=48&fontColor=00FFD5&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROGRAMMER&descAlignY=60&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Python+%7C+C+%7C+C%2B%2B;Learning+%7C+Building+%7C+Improving;Welcome+to+my+GitHub+Profile!" />
 
