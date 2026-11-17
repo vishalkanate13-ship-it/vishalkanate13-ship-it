@@ -49,7 +49,7 @@ Currently_Learning:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python,c" alt="languages" />
 
 **Frameworks & Data**
 
